@@ -1,3 +1,3 @@
 # dsa
 this is my first git repository
-author - Garima 
+author - Garima Sharma
